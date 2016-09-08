@@ -1,0 +1,25 @@
+{
+	"parserOptions": {
+		"ecmaVersion": 6,
+			"sourceType": "module",
+			"ecmaFeatures": {
+				"jsx": true,
+				"experimentalObjectRestSpread": true
+			}
+	},
+	"globals" : {
+		"__DEV__" : true,
+		"setInterval" : true,
+		"Promise" : true,
+		"setTimeout" : true,
+		"clearInterval" : true,
+		"clearTimeout" : true,
+		"fetch" : true,
+		"require" : true,
+		"console" : true
+	},
+	"rules": {
+		"semi": 2,
+		"no-undef" : 2
+	}
+}

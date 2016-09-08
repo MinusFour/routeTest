@@ -1,0 +1,3 @@
+rootProject.name = 'routeTest'
+
+include ':app'
