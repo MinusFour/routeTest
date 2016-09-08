@@ -10,7 +10,7 @@ let colors = [
 	['#8E0000', '#784B00', '#091493', '#8F0082', '#1B8000'] //dark
 ];
 
-let enableRaceCondition = true;
+let enableRaceCondition = false;
 
 let display = 0;
 //Actions:

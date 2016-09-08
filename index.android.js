@@ -30,7 +30,7 @@ class routeTest extends Component {
 			case 'index':
 				return <IndexScene />;
 			case 'colors':
-				return <ColorsSmart />;
+				return <ColorsSmart route={route}/>;
 			default:
 				return null;
 		};
